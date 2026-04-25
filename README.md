@@ -11,9 +11,9 @@ Developer Advocate 🥑 focused on improving API integration and developer exper
 
 - Platform Summit 2023 — [Building APIs That Developers Love: Feedback Collection Tips](https://www.youtube.com/watch?v=N4_yWZNJucs&t)
 
-- Postman Galaxy 2021 — [Building Trust: Developer Relations Secrets for API Success](https://www.youtube.com/watch?v=7av4caQobuQ&t)
-
 - apidays 2023 — [How to Release an API with Developers in Mind](https://www.youtube.com/watch?v=vPXv3SoNd6w)
+
+- Postman Galaxy 2021 — [Building Trust: Developer Relations Secrets for API Success](https://www.youtube.com/watch?v=7av4caQobuQ&t)
 
 
 ## 🎧 Podcasts
