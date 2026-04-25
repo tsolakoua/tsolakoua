@@ -7,11 +7,11 @@ Developer Advocate 🥑 focused on improving API integration and developer exper
 
 ## 🎤 Conferences & Talks
 
-- Platform Summit 2025 — [How LLMs Are Changing the Way We Build API Specifications](https://www.youtube.com/watch?v=bcfrPj5r-Jw&t=601s)
+- Platform Summit 2025 — [How LLMs Are Changing the Way We Build API Specifications](https://www.youtube.com/watch?v=bcfrPj5r-Jw&t)
 
-- Platform Summit 2023 — [Building APIs That Developers Love: Feedback Collection Tips](https://www.youtube.com/watch?v=N4_yWZNJucs&t=108s)
+- Platform Summit 2023 — [Building APIs That Developers Love: Feedback Collection Tips](https://www.youtube.com/watch?v=N4_yWZNJucs&t)
 
-- Postman Galaxy 2021 — [Building Trust: Developer Relations Secrets for API Success](https://www.youtube.com/watch?v=7av4caQobuQ&t=15s)
+- Postman Galaxy 2021 — [Building Trust: Developer Relations Secrets for API Success](https://www.youtube.com/watch?v=7av4caQobuQ&t)
 
 - apidays 2023 — [How to Release an API with Developers in Mind](https://www.youtube.com/watch?v=vPXv3SoNd6w)
 
